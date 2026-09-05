@@ -1,0 +1,225 @@
+Esta es una prueba para observar el funcionamiento del backpressure en Node.js.
+Los streams permiten trabajar con archivos grandes sin cargar todo el contenido en memoria.
+Cuando el flujo de escritura se llena, la lectura puede pausarse temporalmente.
+Después, cuando vuelve a haber espacio disponible, la lectura continúa automáticamente.
+Este proceso ayuda a controlar mejor el uso de memoria y el flujo de información.
+Actividad 4 del laboratorio de Desarrollo de Aplicaciones Web Avanzado.
+Estamos probando los eventos pause, resume y drain en Node.js.
+El objetivo es observar cómo se controla la lectura y escritura de archivos.Esta es una prueba para observar el funcionamiento del backpressure en Node.js.
+Los streams permiten trabajar con archivos grandes sin cargar todo el contenido en memoria.
+Cuando el flujo de escritura se llena, la lectura puede pausarse temporalmente.
+Después, cuando vuelve a haber espacio disponible, la lectura continúa automáticamente.
+Este proceso ayuda a controlar mejor el uso de memoria y el flujo de información.
+Actividad 4 del laboratorio de Desarrollo de Aplicaciones Web Avanzado.
+Estamos probando los eventos pause, resume y drain en Node.js.
+El objetivo es observar cómo se controla la lectura y escritura de archivos.Esta es una prueba para observar el funcionamiento del backpressure en Node.js.
+Los streams permiten trabajar con archivos grandes sin cargar todo el contenido en memoria.
+Cuando el flujo de escritura se llena, la lectura puede pausarse temporalmente.
+Después, cuando vuelve a haber espacio disponible, la lectura continúa automáticamente.
+Este proceso ayuda a controlar mejor el uso de memoria y el flujo de información.
+Actividad 4 del laboratorio de Desarrollo de Aplicaciones Web Avanzado.
+Estamos probando los eventos pause, resume y drain en Node.js.
+El objetivo es observar cómo se controla la lectura y escritura de archivos.Esta es una prueba para observar el funcionamiento del backpressure en Node.js.
+Los streams permiten trabajar con archivos grandes sin cargar todo el contenido en memoria.
+Cuando el flujo de escritura se llena, la lectura puede pausarse temporalmente.
+Después, cuando vuelve a haber espacio disponible, la lectura continúa automáticamente.
+Este proceso ayuda a controlar mejor el uso de memoria y el flujo de información.
+Actividad 4 del laboratorio de Desarrollo de Aplicaciones Web Avanzado.
+Estamos probando los eventos pause, resume y drain en Node.js.
+El objetivo es observar cómo se controla la lectura y escritura de archivos.Esta es una prueba para observar el funcionamiento del backpressure en Node.js.
+Los streams permiten trabajar con archivos grandes sin cargar todo el contenido en memoria.
+Cuando el flujo de escritura se llena, la lectura puede pausarse temporalmente.
+Después, cuando vuelve a haber espacio disponible, la lectura continúa automáticamente.
+Este proceso ayuda a controlar mejor el uso de memoria y el flujo de información.
+Actividad 4 del laboratorio de Desarrollo de Aplicaciones Web Avanzado.
+Estamos probando los eventos pause, resume y drain en Node.js.
+El objetivo es observar cómo se controla la lectura y escritura de archivos.Esta es una prueba para observar el funcionamiento del backpressure en Node.js.
+Los streams permiten trabajar con archivos grandes sin cargar todo el contenido en memoria.
+Cuando el flujo de escritura se llena, la lectura puede pausarse temporalmente.
+Después, cuando vuelve a haber espacio disponible, la lectura continúa automáticamente.
+Este proceso ayuda a controlar mejor el uso de memoria y el flujo de información.
+Actividad 4 del laboratorio de Desarrollo de Aplicaciones Web Avanzado.
+Estamos probando los eventos pause, resume y drain en Node.js.
+El objetivo es observar cómo se controla la lectura y escritura de archivos.Esta es una prueba para observar el funcionamiento del backpressure en Node.js.
+Los streams permiten trabajar con archivos grandes sin cargar todo el contenido en memoria.
+Cuando el flujo de escritura se llena, la lectura puede pausarse temporalmente.
+Después, cuando vuelve a haber espacio disponible, la lectura continúa automáticamente.
+Este proceso ayuda a controlar mejor el uso de memoria y el flujo de información.
+Actividad 4 del laboratorio de Desarrollo de Aplicaciones Web Avanzado.
+Estamos probando los eventos pause, resume y drain en Node.js.
+El objetivo es observar cómo se controla la lectura y escritura de archivos.Esta es una prueba para observar el funcionamiento del backpressure en Node.js.
+Los streams permiten trabajar con archivos grandes sin cargar todo el contenido en memoria.
+Cuando el flujo de escritura se llena, la lectura puede pausarse temporalmente.
+Después, cuando vuelve a haber espacio disponible, la lectura continúa automáticamente.
+Este proceso ayuda a controlar mejor el uso de memoria y el flujo de información.
+Actividad 4 del laboratorio de Desarrollo de Aplicaciones Web Avanzado.
+Estamos probando los eventos pause, resume y drain en Node.js.
+El objetivo es observar cómo se controla la lectura y escritura de archivos.Esta es una prueba para observar el funcionamiento del backpressure en Node.js.
+Los streams permiten trabajar con archivos grandes sin cargar todo el contenido en memoria.
+Cuando el flujo de escritura se llena, la lectura puede pausarse temporalmente.
+Después, cuando vuelve a haber espacio disponible, la lectura continúa automáticamente.
+Este proceso ayuda a controlar mejor el uso de memoria y el flujo de información.
+Actividad 4 del laboratorio de Desarrollo de Aplicaciones Web Avanzado.
+Estamos probando los eventos pause, resume y drain en Node.js.
+El objetivo es observar cómo se controla la lectura y escritura de archivos.Esta es una prueba para observar el funcionamiento del backpressure en Node.js.
+Los streams permiten trabajar con archivos grandes sin cargar todo el contenido en memoria.
+Cuando el flujo de escritura se llena, la lectura puede pausarse temporalmente.
+Después, cuando vuelve a haber espacio disponible, la lectura continúa automáticamente.
+Este proceso ayuda a controlar mejor el uso de memoria y el flujo de información.
+Actividad 4 del laboratorio de Desarrollo de Aplicaciones Web Avanzado.
+Estamos probando los eventos pause, resume y drain en Node.js.
+El objetivo es observar cómo se controla la lectura y escritura de archivos.Esta es una prueba para observar el funcionamiento del backpressure en Node.js.
+Los streams permiten trabajar con archivos grandes sin cargar todo el contenido en memoria.
+Cuando el flujo de escritura se llena, la lectura puede pausarse temporalmente.
+Después, cuando vuelve a haber espacio disponible, la lectura continúa automáticamente.
+Este proceso ayuda a controlar mejor el uso de memoria y el flujo de información.
+Actividad 4 del laboratorio de Desarrollo de Aplicaciones Web Avanzado.
+Estamos probando los eventos pause, resume y drain en Node.js.
+El objetivo es observar cómo se controla la lectura y escritura de archivos.Esta es una prueba para observar el funcionamiento del backpressure en Node.js.
+Los streams permiten trabajar con archivos grandes sin cargar todo el contenido en memoria.
+Cuando el flujo de escritura se llena, la lectura puede pausarse temporalmente.
+Después, cuando vuelve a haber espacio disponible, la lectura continúa automáticamente.
+Este proceso ayuda a controlar mejor el uso de memoria y el flujo de información.
+Actividad 4 del laboratorio de Desarrollo de Aplicaciones Web Avanzado.
+Estamos probando los eventos pause, resume y drain en Node.js.
+El objetivo es observar cómo se controla la lectura y escritura de archivos.Esta es una prueba para observar el funcionamiento del backpressure en Node.js.
+Los streams permiten trabajar con archivos grandes sin cargar todo el contenido en memoria.
+Cuando el flujo de escritura se llena, la lectura puede pausarse temporalmente.
+Después, cuando vuelve a haber espacio disponible, la lectura continúa automáticamente.
+Este proceso ayuda a controlar mejor el uso de memoria y el flujo de información.
+Actividad 4 del laboratorio de Desarrollo de Aplicaciones Web Avanzado.
+Estamos probando los eventos pause, resume y drain en Node.js.
+El objetivo es observar cómo se controla la lectura y escritura de archivos.Esta es una prueba para observar el funcionamiento del backpressure en Node.js.
+Los streams permiten trabajar con archivos grandes sin cargar todo el contenido en memoria.
+Cuando el flujo de escritura se llena, la lectura puede pausarse temporalmente.
+Después, cuando vuelve a haber espacio disponible, la lectura continúa automáticamente.
+Este proceso ayuda a controlar mejor el uso de memoria y el flujo de información.
+Actividad 4 del laboratorio de Desarrollo de Aplicaciones Web Avanzado.
+Estamos probando los eventos pause, resume y drain en Node.js.
+El objetivo es observar cómo se controla la lectura y escritura de archivos.Esta es una prueba para observar el funcionamiento del backpressure en Node.js.
+Los streams permiten trabajar con archivos grandes sin cargar todo el contenido en memoria.
+Cuando el flujo de escritura se llena, la lectura puede pausarse temporalmente.
+Después, cuando vuelve a haber espacio disponible, la lectura continúa automáticamente.
+Este proceso ayuda a controlar mejor el uso de memoria y el flujo de información.
+Actividad 4 del laboratorio de Desarrollo de Aplicaciones Web Avanzado.
+Estamos probando los eventos pause, resume y drain en Node.js.
+El objetivo es observar cómo se controla la lectura y escritura de archivos.Esta es una prueba para observar el funcionamiento del backpressure en Node.js.
+Los streams permiten trabajar con archivos grandes sin cargar todo el contenido en memoria.
+Cuando el flujo de escritura se llena, la lectura puede pausarse temporalmente.
+Después, cuando vuelve a haber espacio disponible, la lectura continúa automáticamente.
+Este proceso ayuda a controlar mejor el uso de memoria y el flujo de información.
+Actividad 4 del laboratorio de Desarrollo de Aplicaciones Web Avanzado.
+Estamos probando los eventos pause, resume y drain en Node.js.
+El objetivo es observar cómo se controla la lectura y escritura de archivos.Esta es una prueba para observar el funcionamiento del backpressure en Node.js.
+Los streams permiten trabajar con archivos grandes sin cargar todo el contenido en memoria.
+Cuando el flujo de escritura se llena, la lectura puede pausarse temporalmente.
+Después, cuando vuelve a haber espacio disponible, la lectura continúa automáticamente.
+Este proceso ayuda a controlar mejor el uso de memoria y el flujo de información.
+Actividad 4 del laboratorio de Desarrollo de Aplicaciones Web Avanzado.
+Estamos probando los eventos pause, resume y drain en Node.js.
+El objetivo es observar cómo se controla la lectura y escritura de archivos.Esta es una prueba para observar el funcionamiento del backpressure en Node.js.
+Los streams permiten trabajar con archivos grandes sin cargar todo el contenido en memoria.
+Cuando el flujo de escritura se llena, la lectura puede pausarse temporalmente.
+Después, cuando vuelve a haber espacio disponible, la lectura continúa automáticamente.
+Este proceso ayuda a controlar mejor el uso de memoria y el flujo de información.
+Actividad 4 del laboratorio de Desarrollo de Aplicaciones Web Avanzado.
+Estamos probando los eventos pause, resume y drain en Node.js.
+El objetivo es observar cómo se controla la lectura y escritura de archivos.Esta es una prueba para observar el funcionamiento del backpressure en Node.js.
+Los streams permiten trabajar con archivos grandes sin cargar todo el contenido en memoria.
+Cuando el flujo de escritura se llena, la lectura puede pausarse temporalmente.
+Después, cuando vuelve a haber espacio disponible, la lectura continúa automáticamente.
+Este proceso ayuda a controlar mejor el uso de memoria y el flujo de información.
+Actividad 4 del laboratorio de Desarrollo de Aplicaciones Web Avanzado.
+Estamos probando los eventos pause, resume y drain en Node.js.
+El objetivo es observar cómo se controla la lectura y escritura de archivos.Esta es una prueba para observar el funcionamiento del backpressure en Node.js.
+Los streams permiten trabajar con archivos grandes sin cargar todo el contenido en memoria.
+Cuando el flujo de escritura se llena, la lectura puede pausarse temporalmente.
+Después, cuando vuelve a haber espacio disponible, la lectura continúa automáticamente.
+Este proceso ayuda a controlar mejor el uso de memoria y el flujo de información.
+Actividad 4 del laboratorio de Desarrollo de Aplicaciones Web Avanzado.
+Estamos probando los eventos pause, resume y drain en Node.js.
+El objetivo es observar cómo se controla la lectura y escritura de archivos.Esta es una prueba para observar el funcionamiento del backpressure en Node.js.
+Los streams permiten trabajar con archivos grandes sin cargar todo el contenido en memoria.
+Cuando el flujo de escritura se llena, la lectura puede pausarse temporalmente.
+Después, cuando vuelve a haber espacio disponible, la lectura continúa automáticamente.
+Este proceso ayuda a controlar mejor el uso de memoria y el flujo de información.
+Actividad 4 del laboratorio de Desarrollo de Aplicaciones Web Avanzado.
+Estamos probando los eventos pause, resume y drain en Node.js.
+El objetivo es observar cómo se controla la lectura y escritura de archivos.Esta es una prueba para observar el funcionamiento del backpressure en Node.js.
+Los streams permiten trabajar con archivos grandes sin cargar todo el contenido en memoria.
+Cuando el flujo de escritura se llena, la lectura puede pausarse temporalmente.
+Después, cuando vuelve a haber espacio disponible, la lectura continúa automáticamente.
+Este proceso ayuda a controlar mejor el uso de memoria y el flujo de información.
+Actividad 4 del laboratorio de Desarrollo de Aplicaciones Web Avanzado.
+Estamos probando los eventos pause, resume y drain en Node.js.
+El objetivo es observar cómo se controla la lectura y escritura de archivos.Esta es una prueba para observar el funcionamiento del backpressure en Node.js.
+Los streams permiten trabajar con archivos grandes sin cargar todo el contenido en memoria.
+Cuando el flujo de escritura se llena, la lectura puede pausarse temporalmente.
+Después, cuando vuelve a haber espacio disponible, la lectura continúa automáticamente.
+Este proceso ayuda a controlar mejor el uso de memoria y el flujo de información.
+Actividad 4 del laboratorio de Desarrollo de Aplicaciones Web Avanzado.
+Estamos probando los eventos pause, resume y drain en Node.js.
+El objetivo es observar cómo se controla la lectura y escritura de archivos.Esta es una prueba para observar el funcionamiento del backpressure en Node.js.
+Los streams permiten trabajar con archivos grandes sin cargar todo el contenido en memoria.
+Cuando el flujo de escritura se llena, la lectura puede pausarse temporalmente.
+Después, cuando vuelve a haber espacio disponible, la lectura continúa automáticamente.
+Este proceso ayuda a controlar mejor el uso de memoria y el flujo de información.
+Actividad 4 del laboratorio de Desarrollo de Aplicaciones Web Avanzado.
+Estamos probando los eventos pause, resume y drain en Node.js.
+El objetivo es observar cómo se controla la lectura y escritura de archivos.Esta es una prueba para observar el funcionamiento del backpressure en Node.js.
+Los streams permiten trabajar con archivos grandes sin cargar todo el contenido en memoria.
+Cuando el flujo de escritura se llena, la lectura puede pausarse temporalmente.
+Después, cuando vuelve a haber espacio disponible, la lectura continúa automáticamente.
+Este proceso ayuda a controlar mejor el uso de memoria y el flujo de información.
+Actividad 4 del laboratorio de Desarrollo de Aplicaciones Web Avanzado.
+Estamos probando los eventos pause, resume y drain en Node.js.
+El objetivo es observar cómo se controla la lectura y escritura de archivos.Esta es una prueba para observar el funcionamiento del backpressure en Node.js.
+Los streams permiten trabajar con archivos grandes sin cargar todo el contenido en memoria.
+Cuando el flujo de escritura se llena, la lectura puede pausarse temporalmente.
+Después, cuando vuelve a haber espacio disponible, la lectura continúa automáticamente.
+Este proceso ayuda a controlar mejor el uso de memoria y el flujo de información.
+Actividad 4 del laboratorio de Desarrollo de Aplicaciones Web Avanzado.
+Estamos probando los eventos pause, resume y drain en Node.js.
+El objetivo es observar cómo se controla la lectura y escritura de archivos.Esta es una prueba para observar el funcionamiento del backpressure en Node.js.
+Los streams permiten trabajar con archivos grandes sin cargar todo el contenido en memoria.
+Cuando el flujo de escritura se llena, la lectura puede pausarse temporalmente.
+Después, cuando vuelve a haber espacio disponible, la lectura continúa automáticamente.
+Este proceso ayuda a controlar mejor el uso de memoria y el flujo de información.
+Actividad 4 del laboratorio de Desarrollo de Aplicaciones Web Avanzado.
+Estamos probando los eventos pause, resume y drain en Node.js.
+El objetivo es observar cómo se controla la lectura y escritura de archivos.Esta es una prueba para observar el funcionamiento del backpressure en Node.js.
+Los streams permiten trabajar con archivos grandes sin cargar todo el contenido en memoria.
+Cuando el flujo de escritura se llena, la lectura puede pausarse temporalmente.
+Después, cuando vuelve a haber espacio disponible, la lectura continúa automáticamente.
+Este proceso ayuda a controlar mejor el uso de memoria y el flujo de información.
+Actividad 4 del laboratorio de Desarrollo de Aplicaciones Web Avanzado.
+Estamos probando los eventos pause, resume y drain en Node.js.
+El objetivo es observar cómo se controla la lectura y escritura de archivos.Esta es una prueba para observar el funcionamiento del backpressure en Node.js.
+Los streams permiten trabajar con archivos grandes sin cargar todo el contenido en memoria.
+Cuando el flujo de escritura se llena, la lectura puede pausarse temporalmente.
+Después, cuando vuelve a haber espacio disponible, la lectura continúa automáticamente.
+Este proceso ayuda a controlar mejor el uso de memoria y el flujo de información.
+Actividad 4 del laboratorio de Desarrollo de Aplicaciones Web Avanzado.
+Estamos probando los eventos pause, resume y drain en Node.js.
+El objetivo es observar cómo se controla la lectura y escritura de archivos.Esta es una prueba para observar el funcionamiento del backpressure en Node.js.
+Los streams permiten trabajar con archivos grandes sin cargar todo el contenido en memoria.
+Cuando el flujo de escritura se llena, la lectura puede pausarse temporalmente.
+Después, cuando vuelve a haber espacio disponible, la lectura continúa automáticamente.
+Este proceso ayuda a controlar mejor el uso de memoria y el flujo de información.
+Actividad 4 del laboratorio de Desarrollo de Aplicaciones Web Avanzado.
+Estamos probando los eventos pause, resume y drain en Node.js.
+El objetivo es observar cómo se controla la lectura y escritura de archivos.Esta es una prueba para observar el funcionamiento del backpressure en Node.js.
+Los streams permiten trabajar con archivos grandes sin cargar todo el contenido en memoria.
+Cuando el flujo de escritura se llena, la lectura puede pausarse temporalmente.
+Después, cuando vuelve a haber espacio disponible, la lectura continúa automáticamente.
+Este proceso ayuda a controlar mejor el uso de memoria y el flujo de información.
+Actividad 4 del laboratorio de Desarrollo de Aplicaciones Web Avanzado.
+Estamos probando los eventos pause, resume y drain en Node.js.
+El objetivo es observar cómo se controla la lectura y escritura de archivos.Esta es una prueba para observar el funcionamiento del backpressure en Node.js.
+Los streams permiten trabajar con archivos grandes sin cargar todo el contenido en memoria.
+Cuando el flujo de escritura se llena, la lectura puede pausarse temporalmente.
+Después, cuando vuelve a haber espacio disponible, la lectura continúa automáticamente.
+Este proceso ayuda a controlar mejor el uso de memoria y el flujo de información.
+Actividad 4 del laboratorio de Desarrollo de Aplicaciones Web Avanzado.
+Estamos probando los eventos pause, resume y drain en Node.js.
+El objetivo es observar cómo se controla la lectura y escritura de archivos.
